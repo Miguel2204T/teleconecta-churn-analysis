@@ -1,0 +1,13 @@
+
+#   pip install -r requirements.txt
+
+# Peticiones HTTP al sitio web
+requests==2.32.3
+# Parseo de HTML para extraer los datos
+beautifulsoup4==4.14.3
+# Motor de parseo HTML rápido (utilizado por BeautifulSoup)
+lxml==6.1.0
+# Manejo de estructuras tabulares (opcional, útil para análisis)
+pandas==2.3.3
+# Conexión a Microsoft SQL Server
+pyodbc==5.3.0
